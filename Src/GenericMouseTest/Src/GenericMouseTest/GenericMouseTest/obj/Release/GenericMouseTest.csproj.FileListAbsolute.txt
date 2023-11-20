@@ -1,0 +1,12 @@
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\bin\Release\GenericMouseTest.exe.config
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\bin\Release\GenericMouseTest.exe
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\bin\Release\GenericMouseTest.pdb
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.Form1.resources
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.exe
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.pdb
+C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.csproj.CopyComplete

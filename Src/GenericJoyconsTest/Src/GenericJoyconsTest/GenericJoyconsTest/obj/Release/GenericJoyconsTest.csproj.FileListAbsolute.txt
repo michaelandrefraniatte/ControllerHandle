@@ -1,0 +1,13 @@
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\bin\Release\GenericJoyconsTest.exe.config
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\bin\Release\GenericJoyconsTest.exe
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\bin\Release\GenericJoyconsTest.pdb
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.Form1.resources
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.exe
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.pdb
+C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\bin\Release\SlimDX.dll

@@ -1,0 +1,4 @@
+Connect joycon right, and the joycon left, with bluetooth, normally joycon right is number zero and joycon left is number one
+Another program can support both joycons from Nintendo, connected together in charging grip, with a usb-c cable to usb-a, to your PC, but I tried without success
+Only official joycons from Nintendo are running with this method, not joycons from Freaks and Geeks
+

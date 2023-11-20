@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\obj\Debug\KeyboardHookTester.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\obj\Debug\KeyboardHookTester.Form1.resources
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\obj\Debug\KeyboardHookTester.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\obj\Debug\KeyboardHookTester.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\obj\Debug\KeyboardHookTester.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\bin\Debug\KeyboardHookTester.exe.config
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\bin\Debug\KeyboardHookTester.exe
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\bin\Debug\KeyboardHookTester.pdb
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\obj\Debug\KeyboardHookTester.exe
+C:\Users\mic\Documents\GitHub\MounkeyZone\Src\form\KeyboardHookTester\KeyboardHookTester\obj\Debug\KeyboardHookTester.pdb

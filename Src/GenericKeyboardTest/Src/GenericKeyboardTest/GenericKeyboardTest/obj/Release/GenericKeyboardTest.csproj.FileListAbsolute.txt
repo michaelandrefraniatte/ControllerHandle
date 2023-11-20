@@ -1,0 +1,12 @@
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\bin\Release\GenericKeyboardTest.exe.config
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\bin\Release\GenericKeyboardTest.exe
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\bin\Release\GenericKeyboardTest.pdb
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\obj\Release\GenericKeyboardTest.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\obj\Release\GenericKeyboardTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\obj\Release\GenericKeyboardTest.Form1.resources
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\obj\Release\GenericKeyboardTest.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\obj\Release\GenericKeyboardTest.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\obj\Release\GenericKeyboardTest.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\obj\Release\GenericKeyboardTest.exe
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\obj\Release\GenericKeyboardTest.pdb
+C:\Users\mic\Documents\GitHub\GenericKeyboardTest\Src\GenericKeyboardTest\GenericKeyboardTest\obj\Release\GenericKeyboardTest.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\bin\Release\GenericJoystickTest.exe.config
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\bin\Release\GenericJoystickTest.exe
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\bin\Release\GenericJoystickTest.pdb
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\obj\Release\GenericJoystickTest.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\obj\Release\GenericJoystickTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\obj\Release\GenericJoystickTest.Form1.resources
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\obj\Release\GenericJoystickTest.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\obj\Release\GenericJoystickTest.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\obj\Release\GenericJoystickTest.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\obj\Release\GenericJoystickTest.exe
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\obj\Release\GenericJoystickTest.pdb
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\bin\Release\SharpDX.DirectInput.dll
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\bin\Release\SharpDX.dll
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\bin\Release\SharpDX.pdb
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\bin\Release\SharpDX.DirectInput.pdb
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\bin\Release\SharpDX.DirectInput.xml
+C:\Users\mic\Documents\GitHub\GenericJoystickTest\Src\GenericJoystickTest\GenericJoystickTest\obj\Release\GenericJoystickTest.csproj.CopyComplete

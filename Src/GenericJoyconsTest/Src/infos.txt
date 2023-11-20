@@ -1,0 +1,4 @@
+No values detected when joycons are in charging grip connected through usb-c to usb-a to PC, instead of connected with bluetooth
+No values with Freaks and Geeks joycons, even as gamepad instead of joystick
+There's handle to it but nothing else
+

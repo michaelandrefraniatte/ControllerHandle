@@ -1,0 +1,8 @@
+C:\Users\micha\Documents\tool\vjoy-test\controllersvjoy\bin\Release\controllersvjoy.dll
+C:\Users\micha\Documents\tool\vjoy-test\controllersvjoy\bin\Release\controllersvjoy.pdb
+C:\Users\micha\Documents\tool\vjoy-test\controllersvjoy\bin\Release\vJoyInterfaceWrap.dll
+C:\Users\micha\Documents\tool\vjoy-test\controllersvjoy\obj\Release\controllersvjoy.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\tool\vjoy-test\controllersvjoy\obj\Release\controllersvjoy.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\tool\vjoy-test\controllersvjoy\obj\Release\controllersvjoy.csproj.CopyComplete
+C:\Users\micha\Documents\tool\vjoy-test\controllersvjoy\obj\Release\controllersvjoy.dll
+C:\Users\micha\Documents\tool\vjoy-test\controllersvjoy\obj\Release\controllersvjoy.pdb

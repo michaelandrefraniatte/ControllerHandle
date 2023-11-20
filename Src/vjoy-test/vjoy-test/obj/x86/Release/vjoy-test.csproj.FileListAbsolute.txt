@@ -1,0 +1,15 @@
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\bin\x86\Release\vjoy-test.exe.config
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\bin\x86\Release\vjoy-test.exe
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\bin\x86\Release\vjoy-test.pdb
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\bin\x86\Release\controllersvjoy.dll
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\bin\x86\Release\vJoyInterfaceWrap.dll
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\bin\x86\Release\controllersvjoy.pdb
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\obj\x86\Release\vjoy-test.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\obj\x86\Release\vjoy-test.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\obj\x86\Release\vjoy_test.Form1.resources
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\obj\x86\Release\vjoy_test.Properties.Resources.resources
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\obj\x86\Release\vjoy-test.csproj.GenerateResource.cache
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\obj\x86\Release\vjoy-test.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\obj\x86\Release\vjoy-test.csproj.CopyComplete
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\obj\x86\Release\vjoy-test.exe
+C:\Users\micha\Documents\tool\vjoy-test\vjoy-test\obj\x86\Release\vjoy-test.pdb

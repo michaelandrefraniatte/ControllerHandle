@@ -1,0 +1,15 @@
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\bin\Debug\VirtualDualshock4-test.exe.config
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\bin\Debug\VirtualDualshock4-test.exe
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\bin\Debug\VirtualDualshock4-test.pdb
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\bin\Debug\controllerds4.dll
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\bin\Debug\Nefarius.ViGEm.Client.dll
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\bin\Debug\controllerds4.pdb
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\obj\Debug\VirtualDualshock4-test.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\obj\Debug\VirtualDualshock4-test.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\obj\Debug\VirtualDualshock4_test.Form1.resources
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\obj\Debug\VirtualDualshock4_test.Properties.Resources.resources
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\obj\Debug\VirtualDualshock4-test.csproj.GenerateResource.cache
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\obj\Debug\VirtualDualshock4-test.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\obj\Debug\VirtualDualshock4-test.csproj.CopyComplete
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\obj\Debug\VirtualDualshock4-test.exe
+C:\Users\micha\Documents\tool\VirtualDualshock4-test\VirtualDualshock4-test\obj\Debug\VirtualDualshock4-test.pdb
