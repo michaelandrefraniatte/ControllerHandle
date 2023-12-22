@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\Release\HPCamTest.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\Release\HPCamTest.Form1.resources
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\Release\HPCamTest.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\Release\HPCamTest.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\Release\HPCamTest.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\bin\Release\HPCamTest.exe.config
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\bin\Release\HPCamTest.exe
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\bin\Release\HPCamTest.pdb
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\Release\HPCamTest.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\Release\HPCamTest.exe
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\Release\HPCamTest.pdb

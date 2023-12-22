@@ -1,0 +1,64 @@
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.exe
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.pdb
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.dll
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.DirectShow.dll
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.dll
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.xml
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.xml
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.DirectShow.xml
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.Form1.resources
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.exe
+c:\users\michael\documents\visual studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.pdb
+C:\Users\michael\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Imaging.dll
+C:\Users\michael\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Math.dll
+C:\Users\michael\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Imaging.xml
+C:\Users\michael\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Math.xml
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.exe.config
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.exe
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.pdb
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.exe
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.pdb
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.Form1.resources
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.Properties.Resources.resources
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csproj.GenerateResource.Cache
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.exe.config
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.exe
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.pdb
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.exe
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.pdb
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.dll
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Imaging.dll
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.dll
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Math.dll
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.xml
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Imaging.xml
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.xml
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.DirectShow.xml
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Math.xml
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.Form1.resources
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.Properties.Resources.resources
+C:\Users\michael\Documents\note\webcam\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csproj.GenerateResource.Cache
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csprojResolveAssemblyReference.cache
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Math.dll
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.xml
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Imaging.xml
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.xml
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Video.DirectShow.xml
+C:\Users\mic\Documents\Visual Studio 2012\Projects\HPCamTest\HPCamTest\bin\x86\Debug\AForge.Math.xml
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.exe.config
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.exe
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\bin\x86\Debug\HPCamTest.pdb
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.Form1.resources
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.exe
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.pdb
+C:\Users\mic\Documents\GitHub\HPCamTest\HPCamTest\HPCamTest\obj\x86\Debug\HPCamTest.csprojAssemblyReference.cache

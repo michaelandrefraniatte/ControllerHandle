@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\bin\Release\InfiniteWorker.exe.config
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\bin\Release\InfiniteWorker.exe
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\bin\Release\InfiniteWorker.pdb
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.Form1.resources
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.exe
+C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.pdb
