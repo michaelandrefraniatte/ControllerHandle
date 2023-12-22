@@ -1,0 +1,14 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\bin\Release\xbc-test.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\bin\Release\xbc-test.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\bin\Release\xbc-test.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\bin\Release\controllers.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\bin\Release\controllers.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\obj\Release\xbc-test.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\obj\Release\xbc-test.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\obj\Release\xbc_test.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\obj\Release\xbc_test.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\obj\Release\xbc-test.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\obj\Release\xbc-test.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\obj\Release\xbc-test.csproj.CopyComplete
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\obj\Release\xbc-test.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\xbc-test\xbc-test\obj\Release\xbc-test.pdb
