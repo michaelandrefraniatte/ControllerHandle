@@ -29,9 +29,12 @@ namespace xbc_test
         private static uint CurrentResolution = 0;
         private static bool controller1_send_back, controller1_send_start, controller1_send_A, controller1_send_B, controller1_send_X, controller1_send_Y, controller1_send_up, controller1_send_left, controller1_send_down, controller1_send_right, controller1_send_leftstick, controller1_send_rightstick, controller1_send_leftbumper, controller1_send_rightbumper, controller1_send_xbox;
         private static double controller1_send_leftstickx, controller1_send_leftsticky, controller1_send_rightstickx, controller1_send_rightsticky, controller1_send_lefttriggerposition, controller1_send_righttriggerposition;
+        private static bool controller2_send_back, controller2_send_start, controller2_send_A, controller2_send_B, controller2_send_X, controller2_send_Y, controller2_send_up, controller2_send_left, controller2_send_down, controller2_send_right, controller2_send_leftstick, controller2_send_rightstick, controller2_send_leftbumper, controller2_send_rightbumper, controller2_send_xbox;
+        private static double controller2_send_leftstickx, controller2_send_leftsticky, controller2_send_rightstickx, controller2_send_rightsticky, controller2_send_lefttriggerposition, controller2_send_righttriggerposition;
         public bool running;
         private static int inc = 0;
-        private ScpBus scp = new ScpBus();
+        private XBoxController scp1 = new XBoxController();
+        private XBoxController scp2 = new XBoxController();
         private void Form1_Load(object sender, EventArgs e)
         {
             TimeBeginPeriod(1);
@@ -45,7 +48,8 @@ namespace xbc_test
             {
                 running = false;
                 Thread.Sleep(100);
-                scp.UnLoadController();
+                scp1.Disconnect();
+                scp2.Disconnect();
             }
             catch { }
         }
@@ -59,7 +63,8 @@ namespace xbc_test
         private void Start()
         {
             running = true;
-            scp.LoadController();
+            scp1.Connect(1);
+            scp2.Connect(2);
             Task.Run(() => taskX());
         }
         private void taskX()
@@ -73,15 +78,20 @@ namespace xbc_test
                 {
                     controller1_send_A = true;
                     controller1_send_rightstickx = 16000;
+                    controller2_send_B = true;
+                    controller2_send_rightsticky = 16000;
                 }
                 else
                 {
                     controller1_send_A = false;
                     controller1_send_rightstickx = 0;
+                    controller2_send_B = false;
+                    controller2_send_rightsticky = 0;
                 }
                 if (inc > 200)
                     inc = 0;
-                scp.SetController(controller1_send_back, controller1_send_start, controller1_send_A, controller1_send_B, controller1_send_X, controller1_send_Y, controller1_send_up, controller1_send_left, controller1_send_down, controller1_send_right, controller1_send_leftstick, controller1_send_rightstick, controller1_send_leftbumper, controller1_send_rightbumper, controller1_send_leftstickx, controller1_send_leftsticky, controller1_send_rightstickx, controller1_send_rightsticky, controller1_send_lefttriggerposition, controller1_send_righttriggerposition, controller1_send_xbox);
+                scp1.Set(controller1_send_back, controller1_send_start, controller1_send_A, controller1_send_B, controller1_send_X, controller1_send_Y, controller1_send_up, controller1_send_left, controller1_send_down, controller1_send_right, controller1_send_leftstick, controller1_send_rightstick, controller1_send_leftbumper, controller1_send_rightbumper, controller1_send_leftstickx, controller1_send_leftsticky, controller1_send_rightstickx, controller1_send_rightsticky, controller1_send_lefttriggerposition, controller1_send_righttriggerposition, controller1_send_xbox);
+                scp2.Set(controller2_send_back, controller2_send_start, controller2_send_A, controller2_send_B, controller2_send_X, controller2_send_Y, controller2_send_up, controller2_send_left, controller2_send_down, controller2_send_right, controller2_send_leftstick, controller2_send_rightstick, controller2_send_leftbumper, controller2_send_rightbumper, controller2_send_leftstickx, controller2_send_leftsticky, controller2_send_rightstickx, controller2_send_rightsticky, controller2_send_lefttriggerposition, controller2_send_righttriggerposition, controller2_send_xbox);
                 Thread.Sleep(10);
             }
         }
