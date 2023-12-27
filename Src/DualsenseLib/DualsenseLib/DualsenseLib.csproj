@@ -101,9 +101,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dualsense\Dualsense.csproj">
-      <Project>{36d556fe-5a82-4929-87fa-97d5f0a45665}</Project>
-      <Name>Dualsense</Name>
+    <ProjectReference Include="..\Dualsenses\Dualsenses.csproj">
+      <Project>{159b77e8-23f3-4c3a-b144-6a5d99b1a538}</Project>
+      <Name>Dualsenses</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

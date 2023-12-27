@@ -101,9 +101,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dualshock4\Dualshock4.csproj">
-      <Project>{febaad46-13f4-4b24-98c1-f14231bd1311}</Project>
-      <Name>Dualshock4</Name>
+    <ProjectReference Include="..\Dualshocks4\Dualshocks4.csproj">
+      <Project>{5f2354d3-7620-4ffd-a578-9ba982848234}</Project>
+      <Name>Dualshocks4</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
