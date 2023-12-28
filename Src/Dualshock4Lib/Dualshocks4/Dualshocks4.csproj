@@ -69,12 +69,12 @@
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Device.Net\Device.Net.csproj">
-      <Project>{716cd843-ccaa-401e-9f90-8c9b9376a7ec}</Project>
+    <ProjectReference Include="..\Device.Net\Device.Net.csproj">
+      <Project>{7219ab09-ef75-4d50-a802-96bb39062673}</Project>
       <Name>Device.Net</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Hid.Net\Hid.Net.csproj">
-      <Project>{52ee8894-2edc-4042-9679-039fd4a5a2cb}</Project>
+    <ProjectReference Include="..\Hid.Net\Hid.Net.csproj">
+      <Project>{b1869742-b23a-4cf9-a81c-69a045ca4055}</Project>
       <Name>Hid.Net</Name>
     </ProjectReference>
   </ItemGroup>
