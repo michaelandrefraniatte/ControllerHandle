@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Numerics;
 using Dualsenses;
 using System.IO;
+using System.Threading;
 
 namespace DualSensesAPI
 {
@@ -22,7 +23,7 @@ namespace DualSensesAPI
         private byte miscByte;
         private byte btnBlock1, btnBlock2, btnBlock3;
         private byte[] dsdata = new byte[64];
-        public IDevice trezorDevice;
+        public IDevice handle;
         public bool PS5ControllerButtonCrossPressed;
         public bool PS5ControllerButtonCirclePressed;
         public bool PS5ControllerButtonSquarePressed;
@@ -54,13 +55,13 @@ namespace DualSensesAPI
         public Vector3 acc_gPS5 = new Vector3();
         public Vector3 InitDirectAnglesPS5, DirectAnglesPS5;
         private Stream mStream;
-        private byte[] bytes = new byte[64];
-        public bool running, formvisible;
+        public bool running, formvisible, littleendian;
         public Form1 form1 = new Form1();
         public DualSense()
         {
             TimeBeginPeriod(1);
             NtSetTimerResolution(1, true, ref CurrentResolution);
+            littleendian = BitConverter.IsLittleEndian;
             running = true;
         }
         public void ViewData()
@@ -74,6 +75,11 @@ namespace DualSensesAPI
         public void Close()
         {
             running = false;
+            Thread.Sleep(100);
+            mStream.Close();
+            mStream.Dispose();
+            handle.Close();
+            handle.Dispose();
         }
         public async void Scan(string vendor_id, string product_id, string label_id, int number = 0)
         {
@@ -86,19 +92,19 @@ namespace DualSensesAPI
             }
             if (number == 0 | number == 1)
             {
-                trezorDevice = await hidFactory.GetDeviceAsync(deviceDefinitions.First()).ConfigureAwait(false);
+                handle = await hidFactory.GetDeviceAsync(deviceDefinitions.First()).ConfigureAwait(false);
             }
             else if (number == 2)
             {
-                trezorDevice = await hidFactory.GetDeviceAsync(deviceDefinitions.Skip(1).First()).ConfigureAwait(false);
+                handle = await hidFactory.GetDeviceAsync(deviceDefinitions.Skip(1).First()).ConfigureAwait(false);
             }
-            await trezorDevice.InitializeAsync().ConfigureAwait(false);
-            mStream = trezorDevice.GetFileStream();
+            await handle.InitializeAsync().ConfigureAwait(false);
+            mStream = handle.GetFileStream();
         }
         public void ProcessStateLogic()
         {
-            LeftAnalogStick = ReadAnalogStick(dsdata[0], dsdata[1]);
-            RightAnalogStick = ReadAnalogStick(dsdata[2], dsdata[3]);
+            LeftAnalogStick = ReadAnalogStick(dsdata[1], dsdata[2]);
+            RightAnalogStick = ReadAnalogStick(dsdata[3], dsdata[4]);
             L2 = GetModeSwitch(dsdata, 4).ToUnsignedFloat();
             R2 = GetModeSwitch(dsdata, 5).ToUnsignedFloat();
             btnBlock1 = GetModeSwitch(dsdata, 7);
@@ -196,10 +202,9 @@ namespace DualSensesAPI
                     break;
                 try
                 {
-                    mStream.Read(bytes, 0, bytes.Length);
+                    mStream.Read(dsdata, 0, dsdata.Length);
                 }
-                catch { }
-                dsdata = bytes.Skip(1).ToArray();
+                catch { Thread.Sleep(10); }
                 ProcessStateLogic();
                 if (formvisible)
                 {
@@ -248,13 +253,15 @@ namespace DualSensesAPI
         {
             Task.Run(() => taskD());
         }
-        private byte GetModeSwitch(byte[] dsdata, int indexIfUsb)
+        private byte GetModeSwitch(byte[] ds4data, int indexIfUsb)
         {
-            return indexIfUsb >= 0 ? dsdata[indexIfUsb] : (byte)0;
+            indexIfUsb++;
+            return ds4data[indexIfUsb];
         }
-        private byte[] GetModeSwitch(byte[] dsdata, int startIndexIfUsb, int size)
+        private byte[] GetModeSwitch(byte[] data, int startIndexIfUsb, int size)
         {
-            return startIndexIfUsb >= 0 ? dsdata.Skip(startIndexIfUsb).Take(size).ToArray() : new byte[size];
+            startIndexIfUsb++;
+            return data.Skip(startIndexIfUsb).Take(size).ToArray();
         }
         private Vec2 ReadAnalogStick(byte x, byte y)
         {
@@ -273,7 +280,7 @@ namespace DualSensesAPI
         }
         private DualShock4Touch ReadTouchpad(byte[] bytes)
         {
-            if (!BitConverter.IsLittleEndian)
+            if (!littleendian)
             {
                 bytes = bytes.Reverse().ToArray();
             }
@@ -288,7 +295,7 @@ namespace DualSensesAPI
         }
         private Vec3 ReadAccelAxes(byte[] x, byte[] y, byte[] z)
         {
-            if (!BitConverter.IsLittleEndian)
+            if (!littleendian)
             {
                 x = x.Reverse().ToArray();
                 y = y.Reverse().ToArray();
