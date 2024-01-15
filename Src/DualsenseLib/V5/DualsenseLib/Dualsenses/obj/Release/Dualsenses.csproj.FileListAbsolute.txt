@@ -67,12 +67,6 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V5\DualsenseLi
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V5\DualsenseLib\Dualsenses\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V5\DualsenseLib\Dualsenses\bin\Release\System.Threading.Tasks.Extensions.xml
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V5\DualsenseLib\Dualsenses\obj\Release\Dualsenses.csproj.CopyComplete
-C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.csproj.AssemblyReference.cache
-C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.Form1.resources
-C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.csproj.GenerateResource.cache
-C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.dll
-C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.pdb
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\bin\Release\Dualsenses.dll.config
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\bin\Release\Dualsenses.dll
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\bin\Release\Dualsenses.pdb
@@ -92,4 +86,10 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLi
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\bin\Release\System.Numerics.Vectors.xml
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.csproj.CopyComplete
+C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\V6\DualsenseLib\Dualsenses\obj\Release\Dualsenses.pdb
