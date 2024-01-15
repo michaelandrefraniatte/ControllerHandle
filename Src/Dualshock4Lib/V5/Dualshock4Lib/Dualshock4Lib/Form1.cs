@@ -23,7 +23,7 @@ namespace Dualshock4Lib
         public DualShock4 ds4 = new DualShock4();
         private static string vendor_ds4_id = "54C", product_ds4_id = "9CC", product_ds4_label = "Wireless Controller";
         private static bool running;
-        private int sleeptime = 1;
+        private int sleeptime = 100;
         private void Form1_Load(object sender, EventArgs e)
         {
             TimeBeginPeriod(1);
@@ -34,7 +34,6 @@ namespace Dualshock4Lib
         {
             running = true;
             ds4.Scan(vendor_ds4_id, product_ds4_id, product_ds4_label);
-            Thread.Sleep(2000);
             ds4.BeginPolling();
             Task.Run(() => task());
         }

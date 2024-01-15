@@ -23,7 +23,7 @@ namespace DualsenseLib
         public DualSense ds = new DualSense();
         private static string vendor_ds_id = "54C", product_ds_id = "CE6", product_ds_label = "DualSense";
         private static bool running;
-        private int sleeptime = 1;
+        private int sleeptime = 100;
         private void Form1_Load(object sender, EventArgs e)
         {
             TimeBeginPeriod(1);
@@ -34,7 +34,6 @@ namespace DualsenseLib
         {
             running = true;
             ds.Scan(vendor_ds_id, product_ds_id, product_ds_label);
-            Thread.Sleep(2000);
             ds.BeginPolling();
             Task.Run(() => task());
         }
