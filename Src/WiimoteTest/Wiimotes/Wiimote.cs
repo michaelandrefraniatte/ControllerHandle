@@ -280,11 +280,7 @@ namespace Wiimotes
             {
                 if (!running)
                     break;
-                try
-                {
-                    mStream.Read(aBuffer, 0, 22);
-                }
-                catch { Thread.Sleep(10); }
+                mStream.Read(aBuffer, 0, 22);
                 ProcessStateLogic();
             }
         }

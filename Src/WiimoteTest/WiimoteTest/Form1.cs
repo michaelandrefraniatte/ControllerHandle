@@ -21,7 +21,7 @@ namespace WiimoteTest
         private static extern void NtSetTimerResolution(uint DesiredResolution, bool SetResolution, ref uint CurrentResolution);
         private static uint CurrentResolution = 0;
         public Wiimote wm = new Wiimote();
-        private static string vendor_ds_id = "57E", product_ds_id = "0330", product_ds_label = "Wiimote";
+        private static string vendor_id = "0002057E", product_id = "0306", product_label = "Wiimote";
         private static bool running;
         private int sleeptime = 100;
         private void Form1_Load(object sender, EventArgs e)
@@ -33,7 +33,7 @@ namespace WiimoteTest
         private void Start()
         {
             running = true;
-            wm.Scan(vendor_ds_id, product_ds_id, product_ds_label);
+            wm.Scan(vendor_id, product_id, product_label);
             wm.BeginPolling();
             Task.Run(() => task());
         }
