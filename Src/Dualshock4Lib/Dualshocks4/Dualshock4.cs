@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Linq;
-using Device.Net;
-using Hid.Net.Windows;
+using DeviceHandle;
+using HidHandle.Windows;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using System.Numerics;
 using Dualshocks4;
 using System.IO;
-using System.Xml.Linq;
 using System.Threading;
 
 namespace DualShocks4API
