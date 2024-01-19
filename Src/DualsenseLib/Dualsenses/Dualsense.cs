@@ -8,7 +8,6 @@ using System.Numerics;
 using Dualsenses;
 using System.IO;
 using System.Threading;
-using System.Collections.Generic;
 
 namespace DualSensesAPI
 {
