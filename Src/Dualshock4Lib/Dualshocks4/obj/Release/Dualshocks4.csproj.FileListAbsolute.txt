@@ -114,10 +114,7 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\V6\Dualshock4
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\bin\Release\Dualshocks4.dll.config
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\bin\Release\Dualshocks4.dll
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\bin\Release\Dualshocks4.pdb
-C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\bin\Release\System.Threading.Tasks.Extensions.dll
-C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\bin\Release\System.Threading.Tasks.Extensions.xml
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\obj\Release\Dualshocks4.csproj.AssemblyReference.cache
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\obj\Release\Dualshocks4.Form1.resources
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshocks4\obj\Release\Dualshocks4.csproj.GenerateResource.cache
