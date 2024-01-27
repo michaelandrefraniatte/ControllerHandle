@@ -370,10 +370,7 @@ namespace DualSensesAPI
                         if (ISDS1)
                         {
                             path = diDetail.DevicePath;
-                            if (number == 2)
-                            {
-                                isvalidhandle = Found(path);
-                            }
+                            isvalidhandle = Found(path);
                             if (isvalidhandle)
                             {
                                 ISDS2 = true;
@@ -382,14 +379,11 @@ namespace DualSensesAPI
                         if (!ISDS1)
                         {
                             path = diDetail.DevicePath;
-                            if (number == 0 | number == 1)
-                            {
-                                isvalidhandle = Found(path);
-                            }
+                            isvalidhandle = Found(path);
                             if (isvalidhandle)
                             {
                                 ISDS1 = true;
-                                if (number == 0)
+                                if (number == 0 | number == 1)
                                     return true;
                             }
                         }
