@@ -1,0 +1,6 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\Object\bin\Debug\Object.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\Object\bin\Debug\Object.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\Object\obj\Debug\Object.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\Object\obj\Debug\Object.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\Object\obj\Debug\Object.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\Object\obj\Debug\Object.pdb
