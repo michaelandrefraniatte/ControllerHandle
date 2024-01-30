@@ -1,0 +1,8 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\Speech_To_Text\Speech_To_Text\bin\Debug\Speech_To_Text.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\Speech_To_Text\Speech_To_Text\bin\Debug\Speech_To_Text.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\Speech_To_Text\Speech_To_Text\bin\Debug\Speech_To_Text.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\Speech_To_Text\Speech_To_Text\obj\Debug\Speech_To_Text.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\Speech_To_Text\Speech_To_Text\obj\Debug\Speech_To_Text.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\Speech_To_Text\Speech_To_Text\obj\Debug\Speech_To_Text.csproj.CopyComplete
+C:\Users\micha\Documents\github\ControllerHandle\Src\Speech_To_Text\Speech_To_Text\obj\Debug\Speech_To_Text.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\Speech_To_Text\Speech_To_Text\obj\Debug\Speech_To_Text.pdb
