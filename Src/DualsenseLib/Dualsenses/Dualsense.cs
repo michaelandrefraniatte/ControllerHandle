@@ -7,7 +7,6 @@ using Dualsenses;
 using System.IO;
 using System.Threading;
 using Microsoft.Win32.SafeHandles;
-using System.IO.Pipes;
 
 namespace DualSensesAPI
 {
@@ -71,7 +70,6 @@ namespace DualSensesAPI
         public Vector3 acc_gPS5 = new Vector3();
         public Vector3 InitDirectAnglesPS5, DirectAnglesPS5;
         private FileStream fStream;
-        private MemoryStream mStream = new MemoryStream();
         public int number = 0;
         public bool ISDS1 = false, ISDS2 = false, isvalidhandle = false;
         public string path;
@@ -202,11 +200,6 @@ namespace DualSensesAPI
                     break;
                 try
                 {
-                    //fStream.CopyTo(mStream);
-
-                    //mStream = new MemoryStream(File.ReadAllBytes(path));
-                    //mStream.Read(dsdata, 0, dsdata.Length);
-
                     fStream.Read(dsdata, 0, dsdata.Length);
                 }
                 catch { Thread.Sleep(10); }
@@ -408,10 +401,6 @@ namespace DualSensesAPI
             {
                 handle = CreateFile(path, FileAccess.ReadWrite, FileShare.ReadWrite, IntPtr.Zero, FileMode.Open, (uint)EFileAttributes.Overlapped, IntPtr.Zero);
                 fStream = new FileStream(handle, FileAccess.Read, 64, true);
-                /*using (FileStream source = File.Open(path, FileMode.Open))
-                {
-                    source.CopyTo(mStream);
-                }*/
                 return true;
             }
             catch { return false; }
