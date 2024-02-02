@@ -203,6 +203,10 @@ namespace DualSensesAPI
                 try
                 {
                     //fStream.CopyTo(mStream);
+
+                    //mStream = new MemoryStream(File.ReadAllBytes(path));
+                    //mStream.Read(dsdata, 0, dsdata.Length);
+
                     fStream.Read(dsdata, 0, dsdata.Length);
                 }
                 catch { Thread.Sleep(10); }
@@ -404,6 +408,10 @@ namespace DualSensesAPI
             {
                 handle = CreateFile(path, FileAccess.ReadWrite, FileShare.ReadWrite, IntPtr.Zero, FileMode.Open, (uint)EFileAttributes.Overlapped, IntPtr.Zero);
                 fStream = new FileStream(handle, FileAccess.Read, 64, true);
+                /*using (FileStream source = File.Open(path, FileMode.Open))
+                {
+                    source.CopyTo(mStream);
+                }*/
                 return true;
             }
             catch { return false; }
