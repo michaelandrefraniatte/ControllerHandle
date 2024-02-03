@@ -1,0 +1,13 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\bin\Debug\JoyconsChargingGripLib.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\bin\Debug\JoyconsChargingGripLib.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\bin\Debug\JoyconsChargingGripLib.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\bin\Debug\Joyconcharginggrips.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\bin\Debug\Joyconcharginggrips.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Debug\JoyconsChargingGripLib.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Debug\JoyconsChargingGripLib.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Debug\JoyconsChargingGripLib.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Debug\JoyconsChargingGripLib.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Debug\JoyconsChargingGripLib.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Debug\JoyconsChargingGripLib.csproj.CopyComplete
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Debug\JoyconsChargingGripLib.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Debug\JoyconsChargingGripLib.pdb
