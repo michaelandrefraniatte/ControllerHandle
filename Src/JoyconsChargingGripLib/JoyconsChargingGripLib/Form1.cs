@@ -85,6 +85,7 @@ namespace JoyconsChargingGripLib
                     str += "JoyconRightAccelY : " + jcg.JoyconRightAccelY + Environment.NewLine;
                     str += "JoyconRightGyroX : " + jcg.JoyconRightGyroX + Environment.NewLine;
                     str += "JoyconRightGyroY : " + jcg.JoyconRightGyroY + Environment.NewLine;
+                    str += Environment.NewLine;
                     this.label2.Text = str;
                 } 
                 catch { }
