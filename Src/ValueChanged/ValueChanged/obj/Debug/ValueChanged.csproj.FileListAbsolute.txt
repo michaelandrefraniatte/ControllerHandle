@@ -9,3 +9,13 @@ C:\Users\micha\Documents\Tool\gaming\ValueChanged\ValueChanged\obj\Debug\ValueCh
 C:\Users\micha\Documents\Tool\gaming\ValueChanged\ValueChanged\obj\Debug\ValueChanged.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\Tool\gaming\ValueChanged\ValueChanged\obj\Debug\ValueChanged.exe
 C:\Users\micha\Documents\Tool\gaming\ValueChanged\ValueChanged\obj\Debug\ValueChanged.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\bin\Debug\ValueChanged.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\bin\Debug\ValueChanged.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\bin\Debug\ValueChanged.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\obj\Debug\ValueChanged.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\obj\Debug\ValueChanged.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\obj\Debug\ValueChanged.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\obj\Debug\ValueChanged.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\obj\Debug\ValueChanged.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\obj\Debug\ValueChanged.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueChanged\ValueChanged\obj\Debug\ValueChanged.pdb
