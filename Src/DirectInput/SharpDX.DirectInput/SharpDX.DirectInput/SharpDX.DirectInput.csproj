@@ -106,7 +106,7 @@
     <Compile Include="Win32Native.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\SharpDX\SharpDX\SharpDX.csproj">
+    <ProjectReference Include="..\SharpDX\SharpDX\SharpDX.csproj">
       <Project>{0c1160e3-fcbe-49e1-8090-f4f958691b3f}</Project>
       <Name>SharpDX</Name>
     </ProjectReference>

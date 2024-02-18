@@ -123,6 +123,7 @@
     <Compile Include="Win32\BitmapInfoHeader.cs" />
     <Compile Include="Win32\ComBaseStreamNative.cs" />
     <Compile Include="Win32\ComStringEnumerator.cs" />
+    <Compile Include="Win32\ErrorCode.cs" />
     <Compile Include="Win32\NamespaceDoc.cs" />
     <Compile Include="Win32\NativeMessage.cs" />
     <Compile Include="Win32\PropertyBag.cs" />
@@ -131,6 +132,9 @@
     <Compile Include="Win32\Variant.cs" />
     <Compile Include="Win32\VariantElementType.cs" />
     <Compile Include="Win32\VariantType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SharpDX.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

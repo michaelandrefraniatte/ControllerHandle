@@ -88,14 +88,14 @@
     <Compile Include="XInput910.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\SharpDX\SharpDX\SharpDX.csproj">
+    <Content Include="Mapping.xml" />
+    <Content Include="SharpDX.XInput.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SharpDX\SharpDX\SharpDX.csproj">
       <Project>{0c1160e3-fcbe-49e1-8090-f4f958691b3f}</Project>
       <Name>SharpDX</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Mapping.xml" />
-    <Content Include="SharpDX.XInput.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
