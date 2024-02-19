@@ -1,0 +1,13 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\bin\Debug\GenericMouseTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\bin\Debug\GenericMouseTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\bin\Debug\GenericMouseTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\bin\Debug\SharpDX.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Debug\GenericMouseTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Debug\GenericMouseTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Debug\GenericMouseTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Debug\GenericMouseTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Debug\GenericMouseTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Debug\GenericM.CA85ABE2.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Debug\GenericMouseTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Debug\GenericMouseTest.pdb

@@ -10,3 +10,14 @@ C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouse
 C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.exe
 C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.pdb
 C:\Users\mic\Documents\GitHub\GenericMouseTest\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.csproj.CopyComplete
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\bin\Release\GenericMouseTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\bin\Release\GenericMouseTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\bin\Release\GenericMouseTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericM.CA85ABE2.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericMouseTest\GenericMouseTest\obj\Release\GenericMouseTest.pdb
