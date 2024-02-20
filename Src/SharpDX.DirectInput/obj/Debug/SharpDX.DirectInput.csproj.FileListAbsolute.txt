@@ -1,2 +1,0 @@
-C:\Users\micha\Documents\github\ControllerHandle\Src\SharpDX.DirectInput\obj\Debug\SharpDX.DirectInput.csproj.AssemblyReference.cache
-C:\Users\micha\Documents\github\ControllerHandle\Src\SharpDX.DirectInput\obj\Debug\SharpDX.DirectInput.csproj.CoreCompileInputs.cache
