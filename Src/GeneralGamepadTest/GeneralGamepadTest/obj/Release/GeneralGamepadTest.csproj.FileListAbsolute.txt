@@ -1,0 +1,11 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\obj\Release\GeneralGamepadTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\obj\Release\GeneralGamepadTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\obj\Release\GeneralGamepadTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\obj\Release\GeneralGamepadTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\obj\Release\GeneralGamepadTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\bin\Release\GeneralGamepadTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\bin\Release\GeneralGamepadTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\bin\Release\GeneralGamepadTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\obj\Release\GeneralG.4C91D6AD.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\obj\Release\GeneralGamepadTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralGamepadTest\GeneralGamepadTest\obj\Release\GeneralGamepadTest.pdb
