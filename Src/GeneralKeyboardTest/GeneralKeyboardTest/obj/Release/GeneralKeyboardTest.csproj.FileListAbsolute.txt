@@ -1,0 +1,11 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\Release\GeneralKeyboardTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\Release\GeneralKeyboardTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\Release\GeneralKeyboardTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Release\GeneralKeyboardTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Release\GeneralKeyboardTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Release\GeneralKeyboardTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Release\GeneralKeyboardTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Release\GeneralKeyboardTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Release\GeneralK.4712E617.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Release\GeneralKeyboardTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Release\GeneralKeyboardTest.pdb

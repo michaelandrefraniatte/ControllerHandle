@@ -1,0 +1,11 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\bin\Release\GeneralMouseTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\bin\Release\GeneralMouseTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\bin\Release\GeneralMouseTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\obj\Release\GeneralMouseTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\obj\Release\GeneralMouseTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\obj\Release\GeneralMouseTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\obj\Release\GeneralMouseTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\obj\Release\GeneralMouseTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\obj\Release\GeneralM.1A726A53.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\obj\Release\GeneralMouseTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralMouseTest\GeneralMouseTest\obj\Release\GeneralMouseTest.pdb
