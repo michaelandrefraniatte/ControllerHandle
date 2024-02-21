@@ -1,0 +1,13 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\bin\x86\Release\GeneralJoystickTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\bin\x86\Release\GeneralJoystickTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\bin\x86\Release\GeneralJoystickTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\bin\x86\Release\Microsoft.DirectX.DirectInput.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\bin\x86\Release\Microsoft.DirectX.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\obj\x86\Release\GeneralJoystickTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\obj\x86\Release\GeneralJoystickTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\obj\x86\Release\GeneralJoystickTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\obj\x86\Release\GeneralJoystickTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\obj\x86\Release\GeneralJoystickTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\obj\x86\Release\GeneralJ.4A3992C3.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\obj\x86\Release\GeneralJoystickTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralJoystickTest\GeneralJoystickTest\obj\x86\Release\GeneralJoystickTest.pdb
