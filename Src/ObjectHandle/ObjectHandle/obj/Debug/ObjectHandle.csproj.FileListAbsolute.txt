@@ -8,6 +8,6 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\ObjectHandle\o
 C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\ObjectHandle\obj\Debug\ObjectHandle.Properties.Resources.resources
 C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\ObjectHandle\obj\Debug\ObjectHandle.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\ObjectHandle\obj\Debug\ObjectHandle.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\ObjectHandle\obj\Debug\ObjectHandle.csproj.CopyComplete
 C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\ObjectHandle\obj\Debug\ObjectHandle.exe
 C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\ObjectHandle\obj\Debug\ObjectHandle.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\ObjectHandle\ObjectHandle\obj\Debug\ObjectHa.7CDBDDF9.Up2Date

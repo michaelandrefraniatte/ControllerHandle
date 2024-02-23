@@ -9,3 +9,13 @@ C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\o
 C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.csproj.CoreCompileInputs.cache
 C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.exe
 C:\Users\mic\Documents\GitHub\InfiniteWorker\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\bin\Release\InfiniteWorker.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\bin\Release\InfiniteWorker.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\bin\Release\InfiniteWorker.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\InfiniteWorker\InfiniteWorker\obj\Release\InfiniteWorker.pdb

@@ -11,3 +11,14 @@ C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJ
 C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.exe
 C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.pdb
 C:\Users\mic\Documents\GitHub\GenericJoyconsTest\Src\GenericJoyconsTest\GenericJoyconsTest\bin\Release\SlimDX.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\bin\Release\GenericJoyconsTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\bin\Release\GenericJoyconsTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\bin\Release\GenericJoyconsTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJ.425E8690.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GenericJoyconsTest\GenericJoyconsTest\obj\Release\GenericJoyconsTest.pdb
