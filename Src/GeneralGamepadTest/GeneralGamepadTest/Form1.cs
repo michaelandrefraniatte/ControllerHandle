@@ -35,7 +35,7 @@ namespace GeneralGamepadTest
         private GamePadState gamepadstate;
         public void Form1_Load(object sender, EventArgs e)
         {
-            gamepadstate = GamePad.GetState(0);
+            gamepadstate = GamePad.GetState(0, 0);
             if (gamepadstate.IsConnected)
             {
                 Task.Run(() => taskEmulate());
@@ -62,7 +62,7 @@ namespace GeneralGamepadTest
         {
             while (!closed)
             {
-                gamepadstate = GamePad.GetState(0);
+                gamepadstate = GamePad.GetState(0, 0);
                 ControllerButtonAPressed = gamepadstate.Buttons.A == Microsoft.Xna.Framework.Input.ButtonState.Pressed;
                 ControllerButtonBPressed = gamepadstate.Buttons.B == Microsoft.Xna.Framework.Input.ButtonState.Pressed;
                 ControllerButtonXPressed = gamepadstate.Buttons.X == Microsoft.Xna.Framework.Input.ButtonState.Pressed;
