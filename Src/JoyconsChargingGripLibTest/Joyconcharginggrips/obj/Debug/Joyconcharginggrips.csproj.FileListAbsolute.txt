@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\bin\Debug\Joyconcharginggrips.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\bin\Debug\Joyconcharginggrips.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\obj\Debug\Joyconcharginggrips.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\obj\Debug\Joyconcharginggrips.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\obj\Debug\Joyconcharginggrips.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\obj\Debug\Joyconcharginggrips.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\obj\Debug\Joyconcharginggrips.csproj.CopyComplete
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\obj\Debug\Joyconcharginggrips.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyconcharginggrips\obj\Debug\Joyconcharginggrips.pdb

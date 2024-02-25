@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoyconsChargingGripLib", "JoyconsChargingGripLib\JoyconsChargingGripLib.csproj", "{5C8C70ED-AB48-43D1-9799-55DC08070043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joyconcharginggrips", "Joyconcharginggrips\Joyconcharginggrips.csproj", "{C3B880B6-7561-4E01-A029-C18C0F494BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8C70ED-AB48-43D1-9799-55DC08070043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8C70ED-AB48-43D1-9799-55DC08070043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8C70ED-AB48-43D1-9799-55DC08070043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8C70ED-AB48-43D1-9799-55DC08070043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B880B6-7561-4E01-A029-C18C0F494BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B880B6-7561-4E01-A029-C18C0F494BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B880B6-7561-4E01-A029-C18C0F494BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B880B6-7561-4E01-A029-C18C0F494BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DAAA95-B019-45EE-9AFB-1C7DB6E2B2E5}
+	EndGlobalSection
+EndGlobal
