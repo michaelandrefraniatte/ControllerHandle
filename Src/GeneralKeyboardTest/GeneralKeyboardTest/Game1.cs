@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework;
 using Keys = Microsoft.Xna.Framework.Input.Keys;
+using System.Windows.Forms;
 
 namespace GeneralKeyboardTest
 {
@@ -10,6 +11,8 @@ namespace GeneralKeyboardTest
         Form1 form1 = new Form1();
         public Game1()
         {
+            Initialize();
+            BeginRun();
             oldState = Keyboard.GetState();
         }
         protected override void Initialize()
@@ -26,16 +29,19 @@ namespace GeneralKeyboardTest
             KeyboardState newState = Keyboard.GetState();
             if (newState.IsKeyDown(Keys.Space))
             {
+                MessageBox.Show("ok");
                 form1.SetKeys();
             }
             else if (oldState.IsKeyDown(Keys.Space))
             {
+                MessageBox.Show("ok");
                 form1.SetKeys();
             }
             oldState = newState;
         }
         protected override void Draw(GameTime gameTime)
         {
+            UpdateInput();
             base.Draw(gameTime);
         }
     }
