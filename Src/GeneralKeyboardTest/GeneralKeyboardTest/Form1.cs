@@ -170,6 +170,7 @@ namespace GeneralKeyboardTest
         {
             TimeBeginPeriod(1);
             NtSetTimerResolution(1, true, ref CurrentResolution);
+            Game1 game1 = new Game1();
             Task.Run(() => taskEmulate());
         }
         private void taskEmulate()
@@ -912,6 +913,10 @@ namespace GeneralKeyboardTest
                 this.label1.Text = str;
                 System.Threading.Thread.Sleep(1);
             }
+        }
+        public void SetKeys()
+        {
+            MessageBox.Show("ok");
         }
         public void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {

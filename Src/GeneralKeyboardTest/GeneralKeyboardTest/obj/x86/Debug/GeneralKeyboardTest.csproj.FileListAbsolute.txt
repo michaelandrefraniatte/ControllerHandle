@@ -10,3 +10,6 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\General
 C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\x86\Debug\GeneralK.4712E617.Up2Date
 C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\x86\Debug\GeneralKeyboardTest.exe
 C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\x86\Debug\GeneralKeyboardTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\x86\Debug\Microsoft.Xna.Framework.Xact.dll
