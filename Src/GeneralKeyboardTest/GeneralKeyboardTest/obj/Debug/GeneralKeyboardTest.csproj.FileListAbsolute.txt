@@ -1,0 +1,12 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\Debug\GeneralKeyboardTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\Debug\GeneralKeyboardTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\Debug\GeneralKeyboardTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Debug\GeneralKeyboardTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Debug\GeneralKeyboardTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Debug\GeneralKeyboardTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Debug\GeneralKeyboardTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Debug\GeneralKeyboardTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Debug\GeneralK.4712E617.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Debug\GeneralKeyboardTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\GeneralKeyboardTest\GeneralKeyboardTest\obj\Debug\GeneralKeyboardTest.pdb
