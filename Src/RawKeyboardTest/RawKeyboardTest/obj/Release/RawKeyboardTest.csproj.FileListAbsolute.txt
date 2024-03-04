@@ -4,7 +4,6 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboard
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\Release\SharpDX.dll
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\Release\SharpDX.RawInput.dll
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\Release\SharpDX.pdb
-C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\Release\SharpDX.RawInput.pdb
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\Release\SharpDX.RawInput.xml
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\Release\RawKeyboardTest.csproj.AssemblyReference.cache
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\Release\RawKeyboardTest.Form1.resources

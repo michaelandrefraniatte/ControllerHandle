@@ -18,9 +18,6 @@ namespace RawMouseTest
         public static bool MouseButtons2;
         public static bool MouseButtons3;
         public static bool MouseButtons4;
-        public static bool MouseButtons5;
-        public static bool MouseButtons6;
-        public static bool MouseButtons7;
         public static int MouseAxisX;
         public static int MouseAxisY;
         public static int MouseAxisZ;
@@ -35,38 +32,26 @@ namespace RawMouseTest
             MouseAxisX = e.X;
             MouseAxisY = e.Y;
             MouseAxisZ = e.WheelDelta;
-            if (e.ButtonFlags == MouseButtonFlags.LeftButtonDown)
-                MouseButtons0 = true;
-            if (e.ButtonFlags == MouseButtonFlags.LeftButtonUp)
-                MouseButtons0 = false;
-            if (e.ButtonFlags == MouseButtonFlags.RightButtonDown)
-                MouseButtons1 = true;
-            if (e.ButtonFlags == MouseButtonFlags.RightButtonUp)
-                MouseButtons1 = false;
-            if (e.ButtonFlags == MouseButtonFlags.MiddleButtonDown)
-                MouseButtons2 = true;
-            if (e.ButtonFlags == MouseButtonFlags.MiddleButtonUp)
-                MouseButtons2 = false;
             if (e.ButtonFlags == MouseButtonFlags.Button1Down)
-                MouseButtons3 = true;
+                MouseButtons0 = true;
             if (e.ButtonFlags == MouseButtonFlags.Button1Up)
-                MouseButtons3 = false;
+                MouseButtons0 = false;
             if (e.ButtonFlags == MouseButtonFlags.Button2Down)
-                MouseButtons4 = true;
+                MouseButtons1 = true;
             if (e.ButtonFlags == MouseButtonFlags.Button2Up)
-                MouseButtons4 = false;
+                MouseButtons1 = false;
             if (e.ButtonFlags == MouseButtonFlags.Button3Down)
-                MouseButtons5 = true;
+                MouseButtons2 = true;
             if (e.ButtonFlags == MouseButtonFlags.Button3Up)
-                MouseButtons5 = false;
+                MouseButtons2 = false;
             if (e.ButtonFlags == MouseButtonFlags.Button4Down)
-                MouseButtons6 = true;
+                MouseButtons3 = true;
             if (e.ButtonFlags == MouseButtonFlags.Button4Up)
-                MouseButtons6 = false;
+                MouseButtons3 = false;
             if (e.ButtonFlags == MouseButtonFlags.Button5Down)
-                MouseButtons7 = true;
+                MouseButtons4 = true;
             if (e.ButtonFlags == MouseButtonFlags.Button5Up)
-                MouseButtons7 = false;
+                MouseButtons4 = false;
         }
         private void taskEmulate()
         {
@@ -80,9 +65,6 @@ namespace RawMouseTest
                 str += "MouseButtons2 : " + MouseButtons2 + Environment.NewLine;
                 str += "MouseButtons3 : " + MouseButtons3 + Environment.NewLine;
                 str += "MouseButtons4 : " + MouseButtons4 + Environment.NewLine;
-                str += "MouseButtons5 : " + MouseButtons5 + Environment.NewLine;
-                str += "MouseButtons6 : " + MouseButtons6 + Environment.NewLine;
-                str += "MouseButtons7 : " + MouseButtons7 + Environment.NewLine;
                 str += Environment.NewLine;
                 this.label1.Text = str;
                 System.Threading.Thread.Sleep(100);

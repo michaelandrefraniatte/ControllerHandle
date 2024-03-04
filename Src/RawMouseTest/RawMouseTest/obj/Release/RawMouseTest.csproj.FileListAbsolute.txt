@@ -4,7 +4,6 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\b
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\Release\SharpDX.dll
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\Release\SharpDX.RawInput.dll
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\Release\SharpDX.pdb
-C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\Release\SharpDX.RawInput.pdb
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\Release\SharpDX.RawInput.xml
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\Release\RawMouseTest.csproj.AssemblyReference.cache
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\Release\RawMouseTest.Form1.resources

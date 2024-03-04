@@ -13,3 +13,15 @@ C:\Users\micha\Documents\sdk\RawInputTrackApp\RawInputTrackApp\obj\Release\RawIn
 C:\Users\micha\Documents\sdk\RawInputTrackApp\RawInputTrackApp\obj\Release\RawInput.ED5A5ECF.Up2Date
 C:\Users\micha\Documents\sdk\RawInputTrackApp\RawInputTrackApp\obj\Release\RawInputTrack.exe
 C:\Users\micha\Documents\sdk\RawInputTrackApp\RawInputTrackApp\obj\Release\RawInputTrack.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\bin\Release\RawInputTrack.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\bin\Release\RawInputTrack.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\bin\Release\RawInputTrack.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\bin\Release\SharpDX.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\bin\Release\SharpDX.RawInput.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\bin\Release\SharpDX.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\bin\Release\SharpDX.RawInput.xml
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\obj\Release\RawInputTrackApp.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\obj\Release\RawInputTrackApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\obj\Release\RawInput.ED5A5ECF.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\obj\Release\RawInputTrack.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputTrackApp\RawInputTrackApp\obj\Release\RawInputTrack.pdb
