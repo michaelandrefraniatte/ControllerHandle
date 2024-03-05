@@ -1,0 +1,15 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\x86\Release\RawKeyboardTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\x86\Release\RawKeyboardTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\x86\Release\RawKeyboardTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\x86\Release\SharpDX.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\x86\Release\SharpDX.RawInput.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\x86\Release\SharpDX.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\bin\x86\Release\SharpDX.RawInput.xml
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\x86\Release\RawKeyboardTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\x86\Release\RawKeyboardTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\x86\Release\RawKeyboardTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\x86\Release\RawKeyboardTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\x86\Release\RawKeyboardTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\x86\Release\RawKeybo.1F373E0F.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\x86\Release\RawKeyboardTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawKeyboardTest\RawKeyboardTest\obj\x86\Release\RawKeyboardTest.pdb
