@@ -1,0 +1,15 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\x86\Debug\RawMouseTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\x86\Debug\RawMouseTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\x86\Debug\RawMouseTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\x86\Debug\SharpDX.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\x86\Debug\SharpDX.RawInput.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\x86\Debug\SharpDX.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\bin\x86\Debug\SharpDX.RawInput.xml
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\x86\Debug\RawMouseTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\x86\Debug\RawMouseTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\x86\Debug\RawMouseTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\x86\Debug\RawMouseTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\x86\Debug\RawMouseTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\x86\Debug\RawMouse.FB6D39E2.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\x86\Debug\RawMouseTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawMouseTest\RawMouseTest\obj\x86\Debug\RawMouseTest.pdb

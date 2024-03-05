@@ -9,3 +9,6 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Keyboardrawin
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Keyboardrawinputs\obj\x86\Release\Keyboard.492BAFF2.Up2Date
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Keyboardrawinputs\obj\x86\Release\Keyboardrawinputs.dll
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Keyboardrawinputs\obj\x86\Release\Keyboardrawinputs.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Keyboardrawinputs\bin\x86\Release\SharpDX.RawInput.xml
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Keyboardrawinputs\bin\x86\Release\Keyboardrawinputs.dll.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Keyboardrawinputs\bin\x86\Release\SharpDX.xml

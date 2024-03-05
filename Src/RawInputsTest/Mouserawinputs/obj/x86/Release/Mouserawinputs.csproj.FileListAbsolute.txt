@@ -9,3 +9,5 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Mouserawinput
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Mouserawinputs\obj\x86\Release\Mouseraw.77F1A37E.Up2Date
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Mouserawinputs\obj\x86\Release\Mouserawinputs.dll
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Mouserawinputs\obj\x86\Release\Mouserawinputs.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Mouserawinputs\bin\x86\Release\SharpDX.RawInput.xml
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\Mouserawinputs\bin\x86\Release\SharpDX.xml
