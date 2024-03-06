@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\obj\x86\Debug\Mouse.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\obj\x86\Debug\Mouse.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\obj\x86\Debug\Mouse.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\obj\x86\Debug\Mouse.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\obj\x86\Debug\Mouse.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\bin\x86\Debug\Mouse.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\bin\x86\Debug\Mouse.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\bin\x86\Debug\Mouse.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\obj\x86\Debug\Mouse.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\rawinputmouse\Mouse\obj\x86\Debug\Mouse.pdb
