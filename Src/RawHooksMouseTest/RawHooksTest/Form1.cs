@@ -29,14 +29,45 @@ namespace RawHooksTest
                 if (!running)
                     break;
                 this.label1.Text = str1;
-                string str2 = "2" + Environment.NewLine;
-                this.label2.Text = str2;
+                string str = "MouseAxisX : " + MouseAxisX + Environment.NewLine;
+                str += "MouseAxisY : " + MouseAxisY + Environment.NewLine;
+                str += "MouseAxisZ : " + MouseAxisZ + Environment.NewLine;
+                str += "MouseButtons0 : " + MouseButtons0 + Environment.NewLine;
+                str += "MouseButtons1 : " + MouseButtons1 + Environment.NewLine;
+                str += "MouseButtons2 : " + MouseButtons2 + Environment.NewLine;
+                str += "MouseButtons3 : " + MouseButtons3 + Environment.NewLine;
+                str += "MouseButtons4 : " + MouseButtons4 + Environment.NewLine;
+                str += Environment.NewLine;
+                this.label2.Text = str;
                 Thread.Sleep(100);
             }
         }
         private void OnButtonPressed(object sender, RawInputEventArg e)
         {
             str1 = "lLastX : " + e.ButtonPressEvent.lLastX.ToString() + ", lLastY : " + e.ButtonPressEvent.lLastY.ToString() + ", ulButtons : " + e.ButtonPressEvent.ulButtons.ToString() + ", ulExtraInformation : " + e.ButtonPressEvent.ulExtraInformation.ToString() + ", usButtonData : " + e.ButtonPressEvent.usButtonData.ToString() + ", usButtonFlags : " + e.ButtonPressEvent.usButtonFlags.ToString();
+            MouseAxisX = e.ButtonPressEvent.lLastX;
+            MouseAxisY = e.ButtonPressEvent.lLastY;
+            MouseAxisZ = e.ButtonPressEvent.usButtonData;
+            if (e.ButtonPressEvent.ulButtons == 1)
+                MouseButtons0 = true;
+            if (e.ButtonPressEvent.ulButtons == 2)
+                MouseButtons0 = false;
+            if (e.ButtonPressEvent.ulButtons == 4)
+                MouseButtons1 = true;
+            if (e.ButtonPressEvent.ulButtons == 8)
+                MouseButtons1 = false;
+            if (e.ButtonPressEvent.ulButtons == 16)
+                MouseButtons2 = true;
+            if (e.ButtonPressEvent.ulButtons == 32)
+                MouseButtons2 = false;
+            if (e.ButtonPressEvent.ulButtons == 256)
+                MouseButtons3 = true;
+            if (e.ButtonPressEvent.ulButtons == 512)
+                MouseButtons3 = false;
+            if (e.ButtonPressEvent.ulButtons == 64)
+                MouseButtons4 = true;
+            if (e.ButtonPressEvent.ulButtons == 128)
+                MouseButtons4 = false;
         }
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -44,5 +75,13 @@ namespace RawHooksTest
             Thread.Sleep(100);
             _rawinput.ButtonPressed -= OnButtonPressed;
         }
+        public bool MouseButtons0;
+        public bool MouseButtons1;
+        public bool MouseButtons2;
+        public bool MouseButtons3;
+        public bool MouseButtons4;
+        public int MouseAxisX;
+        public int MouseAxisY;
+        public int MouseAxisZ;
     }
 }
