@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\bin\Release\RawHooksTest.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\bin\Release\RawHooksTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\bin\Release\RawHooksTest.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\obj\Release\RawHooksTest.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\obj\Release\RawHooksTest.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\obj\Release\RawHooksTest.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\obj\Release\RawHooksTest.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\obj\Release\RawHooksTest.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\obj\Release\RawHooksTest.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawHooksTest\RawHooksTest\obj\Release\RawHooksTest.pdb
