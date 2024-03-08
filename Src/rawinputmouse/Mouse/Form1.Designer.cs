@@ -285,6 +285,7 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.gbDetails.ResumeLayout(false);
             this.gbDetails.PerformLayout();
             this.ResumeLayout(false);

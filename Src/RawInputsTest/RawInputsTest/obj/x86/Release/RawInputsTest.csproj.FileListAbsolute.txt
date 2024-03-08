@@ -18,3 +18,4 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\RawInputsTest
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\RawInputsTest\bin\x86\Release\SharpDX.RawInput.xml
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\RawInputsTest\bin\x86\Release\Keyboardrawinputs.dll.config
 C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\RawInputsTest\bin\x86\Release\SharpDX.xml
+C:\Users\micha\Documents\github\ControllerHandle\Src\RawInputsTest\RawInputsTest\bin\x86\Release\Mouserawinputs.dll.config
