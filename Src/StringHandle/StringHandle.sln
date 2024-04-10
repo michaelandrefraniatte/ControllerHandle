@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringHandle", "StringHandle\StringHandle.csproj", "{52F3578C-516C-47A5-8941-C17650813E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F3578C-516C-47A5-8941-C17650813E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F3578C-516C-47A5-8941-C17650813E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F3578C-516C-47A5-8941-C17650813E19}.Debug|x86.ActiveCfg = Debug|x86
+		{52F3578C-516C-47A5-8941-C17650813E19}.Debug|x86.Build.0 = Debug|x86
+		{52F3578C-516C-47A5-8941-C17650813E19}.Release|Any CPU.ActiveCfg = Release|x86
+		{52F3578C-516C-47A5-8941-C17650813E19}.Release|Any CPU.Build.0 = Release|x86
+		{52F3578C-516C-47A5-8941-C17650813E19}.Release|x86.ActiveCfg = Release|x86
+		{52F3578C-516C-47A5-8941-C17650813E19}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43A65F93-B1B1-4E39-A785-E7A8BD03479D}
+	EndGlobalSection
+EndGlobal
