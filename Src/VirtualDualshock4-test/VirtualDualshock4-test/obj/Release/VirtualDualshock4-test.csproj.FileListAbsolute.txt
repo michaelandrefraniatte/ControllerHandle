@@ -11,3 +11,16 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\V2\V
 C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\V2\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4-test.csproj.CopyComplete
 C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\V2\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4-test.exe
 C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\V2\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4-test.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\bin\Release\VirtualDualshock4-test.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\bin\Release\VirtualDualshock4-test.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\bin\Release\VirtualDualshock4-test.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\bin\Release\controllersds4.dll
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\bin\Release\controllersds4.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4-test.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4_test.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4_test.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4-test.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4-test.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualD.DCB77003.Up2Date
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4-test.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\VirtualDualshock4-test\VirtualDualshock4-test\obj\Release\VirtualDualshock4-test.pdb

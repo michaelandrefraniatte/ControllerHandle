@@ -171,6 +171,6 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshock4Lib
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshock4Lib\obj\Release\Dualshock4Lib.Properties.Resources.resources
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshock4Lib\obj\Release\Dualshock4Lib.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshock4Lib\obj\Release\Dualshock4Lib.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshock4Lib\obj\Release\Dualshock4Lib.csproj.CopyComplete
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshock4Lib\obj\Release\Dualshock4Lib.exe
 C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshock4Lib\obj\Release\Dualshock4Lib.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\Dualshock4Lib\Dualshock4Lib\obj\Release\Dualshoc.25229634.Up2Date

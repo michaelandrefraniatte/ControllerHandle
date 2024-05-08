@@ -8,6 +8,6 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\Joyc
 C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Release\JoyconsChargingGripLib.Properties.Resources.resources
 C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Release\JoyconsChargingGripLib.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Release\JoyconsChargingGripLib.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Release\JoyconsChargingGripLib.csproj.CopyComplete
 C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Release\JoyconsChargingGripLib.exe
 C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Release\JoyconsChargingGripLib.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\JoyconsChargingGripLib\JoyconsChargingGripLib\obj\Release\JoyconsC.BC2035A8.Up2Date

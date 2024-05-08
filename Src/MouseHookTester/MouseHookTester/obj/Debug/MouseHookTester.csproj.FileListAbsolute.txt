@@ -29,3 +29,13 @@ C:\Users\micha\Documents\Perso\tool\MouseHook\Src\MouseHookTester\MouseHookTeste
 C:\Users\micha\Documents\Perso\tool\MouseHook\Src\MouseHookTester\MouseHookTester\bin\Debug\MouseHookTester.exe.config
 C:\Users\micha\Documents\Perso\tool\MouseHook\Src\MouseHookTester\MouseHookTester\bin\Debug\MouseHookTester.exe
 C:\Users\micha\Documents\Perso\tool\MouseHook\Src\MouseHookTester\MouseHookTester\bin\Debug\MouseHookTester.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\bin\Debug\MouseHookTester.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\bin\Debug\MouseHookTester.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\bin\Debug\MouseHookTester.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\obj\Debug\MouseHookTester.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\obj\Debug\MouseHookTester.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\obj\Debug\MouseHookTester.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\obj\Debug\MouseHookTester.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\obj\Debug\MouseHookTester.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\obj\Debug\MouseHookTester.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\MouseHookTester\MouseHookTester\obj\Debug\MouseHookTester.pdb

@@ -213,6 +213,6 @@ C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\DualsenseLib\o
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\DualsenseLib\obj\Release\DualsenseLib.Properties.Resources.resources
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\DualsenseLib\obj\Release\DualsenseLib.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\DualsenseLib\obj\Release\DualsenseLib.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\DualsenseLib\obj\Release\DualsenseLib.csproj.CopyComplete
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\DualsenseLib\obj\Release\DualsenseLib.exe
 C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\DualsenseLib\obj\Release\DualsenseLib.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\DualsenseLib\DualsenseLib\obj\Release\Dualsens.3847755D.Up2Date
