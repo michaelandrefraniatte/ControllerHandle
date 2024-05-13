@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -35,11 +36,21 @@ namespace PromptHandle
         private async void button1_Click(object sender, EventArgs e)
         {
             List<string> listrecords = new List<string>();
-            listrecords.Add("Dark Grey");
-            listrecords.Add("Orange");
-            listrecords.Add("None");
-            string result = await Form2.ShowDialog("Rock", "What should the name of the band be?", "Beret color to wear", "", listrecords);
+            listrecords = GetWindowTitles();
+            string record = "";
+            string result = await Form2.ShowDialog("Window Titles", "What should be the window to handle capture?", "Choose a window title", record, listrecords);
             textBox1.Text = result;
+        }
+        public List<string> GetWindowTitles()
+        {
+            List<string> titles = new List<string>();
+            foreach (Process proc in Process.GetProcesses())
+            {
+                string title = proc.MainWindowTitle;
+                if (title != null & title != "")
+                    titles.Add(title);
+            }
+            return titles;
         }
     }
 }
