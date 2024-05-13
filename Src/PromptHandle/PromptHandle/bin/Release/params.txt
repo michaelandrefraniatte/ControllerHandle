@@ -1,0 +1,2 @@
+// Window title
+PromptHandle - Microsoft Visual Studio

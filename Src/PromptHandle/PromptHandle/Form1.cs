@@ -17,8 +17,22 @@ namespace PromptHandle
         {
             InitializeComponent();
         }
+        private static string windowtitle, base64image;
         private void Form1_Load(object sender, EventArgs e)
         {
+            using (System.IO.StreamReader file = new System.IO.StreamReader("params.txt"))
+            {
+                file.ReadLine();
+                windowtitle = file.ReadLine();
+            }
+        }
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            using (System.IO.StreamWriter file = new System.IO.StreamWriter("params.txt"))
+            {
+                file.WriteLine("// Window title");
+                file.WriteLine(windowtitle);
+            }
         }
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
@@ -37,9 +51,9 @@ namespace PromptHandle
         {
             List<string> listrecords = new List<string>();
             listrecords = GetWindowTitles();
-            string record = "";
-            string result = await Form2.ShowDialog("Window Titles", "What should be the window to handle capture?", "Choose a window title", record, listrecords);
-            textBox1.Text = result;
+            string record = windowtitle;
+            windowtitle = await Form2.ShowDialog("Window Titles", "What should be the window to handle capture?", "Choose a title:", record, listrecords);
+            textBox1.Text = windowtitle;
         }
         public List<string> GetWindowTitles()
         {
