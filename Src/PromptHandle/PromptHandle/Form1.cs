@@ -52,7 +52,7 @@ namespace PromptHandle
             List<string> listrecords = new List<string>();
             listrecords = GetWindowTitles();
             string record = windowtitle;
-            windowtitle = await Form2.ShowDialog("Window Titles", "What should be the window to handle capture?", "Choose a title:", record, listrecords);
+            windowtitle = await Form2.ShowDialog("Window Titles", "What should be the window to handle capture?", record, listrecords);
             textBox1.Text = windowtitle;
         }
         public List<string> GetWindowTitles()
