@@ -1,2 +1,2 @@
 // Window title
-directory - Personnel – Microsoft​ Edge
+PromptHandle - Microsoft Visual Studio
