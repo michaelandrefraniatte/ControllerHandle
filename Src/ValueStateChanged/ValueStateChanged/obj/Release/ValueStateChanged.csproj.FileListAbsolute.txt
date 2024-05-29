@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\bin\Release\ValueStateChanged.exe.config
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\bin\Release\ValueStateChanged.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\bin\Release\ValueStateChanged.pdb
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\obj\Release\ValueStateChanged.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\obj\Release\ValueStateChanged.Form1.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\obj\Release\ValueStateChanged.Properties.Resources.resources
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\obj\Release\ValueStateChanged.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\obj\Release\ValueStateChanged.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\obj\Release\ValueStateChanged.exe
+C:\Users\micha\Documents\github\ControllerHandle\Src\ValueStateChanged\ValueStateChanged\obj\Release\ValueStateChanged.pdb
