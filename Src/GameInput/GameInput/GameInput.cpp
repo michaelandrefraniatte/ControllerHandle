@@ -1,20 +1,67 @@
-// GameInput.cpp : Ce fichier contient la fonction 'main'. L'exécution du programme commence et se termine à cet endroit.
-//
-
 #include <iostream>
+#include <stdlib.h>
+#include <stdio.h>
+#include <time.h>
+#include <dos.h>
+#include <windows.h>
+#include <ctime>
+#include <conio.h>
+#include <GameInput.h>
+using namespace std;
+using std::cout;
+using std::endl;
+
+IGameInput* g_gameInput = nullptr;
+IGameInputDevice* g_gamepad = nullptr;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    char c;
+    std::cout << "press esc to exit! " << std::endl;
+    HRESULT hr = GameInputCreate(&g_gameInput);
+    std::cout << hr << "\n";
+    std::cout << g_gameInput << "\n";
+    while (true) 
+    {
+        // Ask for the latest reading from devices that provide fixed-format
+        // gamepad state. If a device has been assigned to g_gamepad, filter
+        // readings to just the ones coming from that device. Otherwise, if
+        // g_gamepad is null, it will allow readings from any device.
+        IGameInputReading* reading;
+        if (SUCCEEDED(g_gameInput->GetCurrentReading(GameInputKindGamepad, g_gamepad, &reading)))
+        {
+            // If no device has been assigned to g_gamepad yet, set it
+            // to the first device we receive input from. (This must be
+            // the one the player is using because it's generating input.)
+            if (!g_gamepad) 
+                reading->GetDevice(&g_gamepad);
+            // Retrieve the fixed-format gamepad state from the reading.
+            GameInputGamepadState state;
+            reading->GetGamepadState(&state);
+            reading->Release();
+            // Application-specific code to process the gamepad state goes here.
+            std::cout << state.leftThumbstickX << "\n";
+            std::cout << state.leftThumbstickY << "\n";
+            std::cout << state.rightThumbstickX << "\n";
+            std::cout << state.rightThumbstickY << "\n";
+        }
+        // If an error is returned from GetCurrentReading(), it means the
+        // gamepad we were reading from has disconnected. Reset the
+        // device pointer, and go back to looking for an active gamepad.
+        else if (g_gamepad)
+        {
+            g_gamepad->Release();
+            g_gamepad = nullptr;
+        }
+        c = getchar();
+        if (c == 27)
+            break;
+        Sleep(5);
+    }
+    if (g_gamepad)
+        g_gamepad->Release();
+    if (g_gameInput)
+        g_gameInput->Release();
+    std::cout << "exited: " << std::endl;
+    return 0;
 }
-
-// Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
-// Déboguer le programme : F5 ou menu Déboguer > Démarrer le débogage
-
-// Astuces pour bien démarrer : 
-//   1. Utilisez la fenêtre Explorateur de solutions pour ajouter des fichiers et les gérer.
-//   2. Utilisez la fenêtre Team Explorer pour vous connecter au contrôle de code source.
-//   3. Utilisez la fenêtre Sortie pour voir la sortie de la génération et d'autres messages.
-//   4. Utilisez la fenêtre Liste d'erreurs pour voir les erreurs.
-//   5. Accédez à Projet > Ajouter un nouvel élément pour créer des fichiers de code, ou à Projet > Ajouter un élément existant pour ajouter des fichiers de code existants au projet.
-//   6. Pour rouvrir ce projet plus tard, accédez à Fichier > Ouvrir > Projet et sélectionnez le fichier .sln.
