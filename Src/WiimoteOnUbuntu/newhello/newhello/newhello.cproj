@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B684E21F-7CC5-40B5-BA87-AC8FC8CE6A3F}</ProjectGuid>
+    <Target>Bin</Target>
+    <Language>C</Language>
+    <Compiler>
+      <Compiler ctype="GccCompiler" />
+    </Compiler>
+    <Packages>
+      <Packages>
+        <Package file="/usr/lib/x86_64-linux-gnu/pkgconfig/bluez.pc" name="BlueZ" IsProject="False" />
+        <Package file="/usr/lib/pkgconfig/cwiid.pc" name="CWiid" IsProject="False" />
+        <Package file="/usr/lib/pkgconfig/gnome-bluetooth-1.0.pc" name="gnome-bluetooth-1.0" IsProject="False" />
+        <Package file="/usr/lib/x86_64-linux-gnu/pkgconfig/libxwiimote.pc" name="libxwiimote" IsProject="False" />
+        <Package file="/usr/lib/pkgconfig/mono-2.pc" name="Mono" IsProject="False" />
+      </Packages>
+    </Packages>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineSymbols>DEBUG MONODEVELOP</DefineSymbols>
+    <SourceDirectory>.</SourceDirectory>
+    <CompileTarget>Bin</CompileTarget>
+    <Externalconsole>true</Externalconsole>
+    <OutputName>newhello</OutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release</OutputPath>
+    <OptimizationLevel>3</OptimizationLevel>
+    <DefineSymbols>MONODEVELOP</DefineSymbols>
+    <SourceDirectory>.</SourceDirectory>
+    <Externalconsole>true</Externalconsole>
+    <OutputName>newhello</OutputName>
+    <CompileTarget>Bin</CompileTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="main.c" />
+    <Compile Include="wiimote_api.c" />
+    <Compile Include="wiimote_classic.c" />
+    <Compile Include="wiimote_error.c" />
+    <Compile Include="wiimote_event.c" />
+    <Compile Include="wiimote_io.c" />
+    <Compile Include="wiimote_ir.c" />
+    <Compile Include="wiimote_link.c" />
+    <Compile Include="wiimote_mii.c" />
+    <Compile Include="wiimote_nunchuk.c" />
+    <Compile Include="wiimote_report.c" />
+    <Compile Include="wiimote_speaker.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bthid.h" />
+    <None Include="Makefile.in" />
+    <None Include="wiimote.h" />
+    <None Include="wiimote_api.h" />
+    <None Include="wiimote_classic.h" />
+    <None Include="wiimote_error.h" />
+    <None Include="wiimote_event.h" />
+    <None Include="wiimote_io.h" />
+    <None Include="wiimote_ir.h" />
+    <None Include="wiimote_link.h" />
+    <None Include="wiimote_mii.h" />
+    <None Include="wiimote_nunchuk.h" />
+    <None Include="wiimote_report.h" />
+    <None Include="wiimote_speaker.h" />
+    <None Include="wiimote_util.h" />
+  </ItemGroup>
+</Project>

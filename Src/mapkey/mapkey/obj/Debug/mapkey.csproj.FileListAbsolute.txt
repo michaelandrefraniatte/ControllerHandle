@@ -1,0 +1,7 @@
+C:\Users\mic\Documents\note\sdk\mapkey\mapkey\bin\Debug\mapkey.exe.config
+C:\Users\mic\Documents\note\sdk\mapkey\mapkey\bin\Debug\mapkey.exe
+C:\Users\mic\Documents\note\sdk\mapkey\mapkey\bin\Debug\mapkey.pdb
+C:\Users\mic\Documents\note\sdk\mapkey\mapkey\obj\Debug\mapkey.csprojAssemblyReference.cache
+C:\Users\mic\Documents\note\sdk\mapkey\mapkey\obj\Debug\mapkey.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\note\sdk\mapkey\mapkey\obj\Debug\mapkey.exe
+C:\Users\mic\Documents\note\sdk\mapkey\mapkey\obj\Debug\mapkey.pdb

@@ -1,0 +1,34 @@
+I had trouble building the current svn trunk (182) on ubuntu intrepid, I recieved this warning:
+ 
+gcc -g -Wall -W -DHAVE_CONFIG_H -I/home/dreamer/src/cwiid/common/include -fpic -c -o bluetooth.o bluetooth.c bluetooth.c: In function ‘cwiid_get_bdinfo_array’: bluetooth.c:125: warning: implicit declaration of function ‘hci_remote_name’
+ 
+followed by this build error later: 
+
+gcc -o wmgui main.o interface.o support.o -lbluetooth -lrt -lpthread -L../libcwiid -pthread -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lpangoft2-1.0 -lgdk_pixbuf-2.0 -lm -lpangocairo-1.0 -lgio-2.0 -lcairo -lpango-1.0 -lfreetype -lz -lfontconfig -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -lm -lcwiid ../libcwiid/libcwiid.so: undefined reference to `hci_remote_name'
+ 
+I googled it and found this message: 
+
+ http://lists.usefulinc.com/pipermail/gnome-bluetooth/2005-January/000767.html 
+
+On Wed, 2005-01-19 at 12:59 +0100, Marcel Holtmann wrote: 
+
+
+Hi Edd, 
+
+
+
+the bluez-libs-2.14 deprecate some functions and hci_remote_name() should be replaced by hci_read_remote_name().
+ 
+Whoa, the API changed in a backward incompatible manner and you didn't bump the SONAME?
+ 
+actually I thought that these deprecated functions where nowhere in use, but I was wrong as it seems. And because of this I saw no reason to bump the SONAME. Should I re-introduce them in the next release or can you simply fix the libbtctl.
+ 
+It would be best if you could reintroduce them. I may not be the only person using those APIs, as I think I lifted the code from a previous version of hcitool.
+ 
+thanks 
+
+-- Edd 
+
+after changing line 125 in bluetooth.c from: if (hci_remote_name(sock, &dev_list[i].bdaddr, BT_NAME_LEN, to if (hci_read_remote_name(sock, &dev_list[i].bdaddr, BT_NAME_LEN,
+ 
+it built fine, i just tested wminput and wmgui, and they behaved normally.

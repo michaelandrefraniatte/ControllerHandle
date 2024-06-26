@@ -1,0 +1,18 @@
+terminal:
+
+
+
+sudo apt-get install lswm wminput
+
+sudo lswm
+
+sudo 
+lswm
+cp /home/manhunt/Documents/ma_config8 /etc/cwiid/wminput/ma_config8
+
+ 
+sudo wminput -c ma_config8 00:19:1D:94:3D:D3
+
+
+
+

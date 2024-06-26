@@ -1,0 +1,192 @@
+
+Salut les gens!
+
+Alors, je viens de m'acheter une manette de wii et une clef bluetooth ! Yeah, en avant les bidouilles geek!
+
+Je suis sous Ubuntu et je cherche donc ? manipuler ma manette de wii avec la biblioth?que libwiimote. Le paquet libwiimote pr?sent sur Synaptic est assez ancien (version 0.2) mais j'arrive tout de m?me ? ex?cuter des programmes simples. Cependant je ne b?n?ficie pas de toutes les fonctionnalit?s pr?sentes dans la 0.4. J'ai alors essay? de me installer la derni?re version moi m?me (? d?sespoir)
+
+Je d?compresse mon .tgz dans mon r?pertoire /media/E/dev/lib/libwiimote-0.4 (E est un gros disque dur o? je place un peu tout et nimporte quoi, ce n'est pas mon syst?me de fichiers)
+
+Je me mets dans /media/E/dev/lib/libwiimote-0.4 et je fais:
+
+autoconf
+./configure
+make
+sudo make install
+
+Des fichiers ont bien ?t? d?plac?s dans usr/local/include et usr/local/lib.
+
+Je retourne alors dans Eclipse et j'ajoute cwiimote, bluetoth et m ? la liste des Libraries.
+J'essaye de mettre en "Library search path"
+/usr/local/lib
+/usr/local/include/libcwiimote-0.4.0/libcwiimote
+/usr/local/include
+...
+
+mais ?a n'y change rien... j'ai toujours des "d?claration implicite de la fonction ..." sur les fonctions de la biblioth?que libwiimote.
+
+Je remarque ?galement qu'en essayant d'ex?cuter les binaires exemples de la lib pr?sents sur /media/E/dev/lib/libwiimote-0.4/bin je re?ois le message suivant:
+
+error while loading shared libraries: libcwiimote.so: cannot open shared object file: No such file or directory
+
+
+Donc je gal?re sur ?a depuis hier, je fouine partout ? la recherche d'informations. Mais je trouve tr?s tr?s peu de choses en raison du peu de documentation sur la lib. Donc mon probl?me doit certainement se trouver dans ma mani?re d'installer la library ou bien de la linker... Je d?bute encore avec linux mais je sais qu'il y a des gens ici qui ont d?j? manipul? la manette de wii. Donc si quelqu'un a la moindre id?e pour m'aider ?a serait sacr?ment sympa 
+
+Merci d'avance
+
+
+--------------------------------------------------------------------------------
+Mon blog
+
+iop,
+
+pour les d?clarations implicites, c'est un probl?me de compilation, pas de linkage.
+Donc soit tu n'as pas #include le bon .h , soit tu l'as fait et il n'est pas bon / pas bien configur? ( ya ptet des #define qui tra?nent dedans qu'il faut bidouiller )
+
+Apr?s pour le cannot open shared object, ?a dit bien ce que ?a veut dire. Quand tu fais make, assure toi que dans ./ il y a bien libcwiimote.so ou un truc qui y ressemble ( find -r libxwiimote.so ou un truc comme ?a ). Si il y est, il suffit que tu le mettes dans le path ( au pire de chez pire, copie-colle le dans le dossier des ex?cutables ); sinon, bah pas de bol, ya ptet une option ? la noix dans le makefile, tape-toi le readme...
+
+T'as essay? wmgui, lswm, et tout ?a ? moi ?a marchait direct.
+Ah et des libs pour la wiimote yen a au moins deux dans synaptic hein.
+
+Et de toute fa?on tu m?rites la mort rien que parce que t'es sous eclipse.
+
+
+Alors u? j'ai r?ussi ? utiliser wmgui sans probl?me. Je fais mumuse avec les acc?l?rom?tres, les leds et le vibreur. Donc de ce c?t? j'arrive bien ? relier la manette ? mon PC. Mais j'avais ?galement r?ussi avec la  version 0.2 de la librairie. J'avais utilis? les exemples donn?es sur sourceforge et ?a buggait pas mal, mais j'arrivais ? lui faire ?mettre des sons, ou plut?t des semblants de sons vu que ?a ressemblait vraiment ? rien.
+
+Je viens de voir qu'en sp?cifiant le chemin absolu des .h ?a r?ussi ? compiler:
+
+#include "/usr/local/include/libcwiimote-0.4.0/libcwiimote/wiimote.h"
+#include "/usr/local/include/libcwiimote-0.4.0/libcwiimote/wiimote_api.h"
+...
+
+Mais en ex?cutant le programme qui est le suivant :
+
+
+
+
+
+
+Code:
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <unistd.h>
+#include <sys/time.h>
+#include <time.h>
+
+#include "/usr/local/include/libcwiimote-0.4.0/libcwiimote/wiimote.h"
+#include "/usr/local/include/libcwiimote-0.4.0/libcwiimote/wiimote_api.h"
+ 
+int main() {
+     
+     wiimote_t wiimote;
+    
+    if (wiimote_connect(&wiimote, "00:1F:32:86:ED:53") < 0) {
+        fprintf(stderr, "unable to open wiimote: %s\n", wiimote_get_error());
+    } else {
+        printf("ok");
+        
+        while (wiimote_is_open(&wiimote)) {
+            
+            if (wiimote_update(&wiimote) < 0) {
+                wiimote_disconnect(&wiimote);
+                break;
+            }
+            
+            if (wiimote.keys.home) {
+                wiimote_disconnect(&wiimote);
+            }
+            
+
+            if (wiimote.keys.a) {
+                
+            }
+        }
+    }
+    
+    return 0;
+}
+
+
+wiimote_connect(): devba: No such device
+unable to open wiimote: wiimote_connect(): devba: No such device
+
+Ahh !
+Ca semble fonctionner en initialisant wiimote au d?but avec:
+wiimote_t wiimote = WIIMOTE_INIT;
+
+Ahah ?a marche 
+Par contre y a un truc que je ne comprends pas, le code pr?sent? sur http://libwiimote.sourceforge.net/ pour allumer les dels ne marche pas:
+
+
+
+
+Code:
+
+ wiimote.leds.one = 1;
+ wiimote.leds.two = 1;
+J'ai l'erreur suivante :
+?wiimote_t? has no member named ?leds?
+
+Bizarre ...
+
+
+// print wiimote accelerometer data to stdout.
+ // replace xx:xx:xx:xx:xx:xx with the correct bluetooth address.
+
+ #include <stdio.h>
+ #include "wiimote_api.h"
+ int main() 
+ {
+   wiimote_t wi;
+   wiimote_connect(&wi, "xx:xx:xx:xx:xx");
+   wi.mode.acc = 1;		// enable accelerometer
+   while (wiimote_is_open(&wi)) {
+     wiimote_update(&wi); 	// synchronize with wiimote
+     if (wi.keys.home) {	// check if home key is pressed
+       wiimote_disconnect(&wi);
+     }
+     printf("x=%d y=%d z=%d\n", wi.axis.x, wi.axis.y, wi.axis.z);
+   }
+ }
+
+ // print ir-sensor and nunchuk joystick states.
+
+ #include <stdio.h>
+ #include "wiimote_api.h"
+ int main() 
+ {
+   wiimote_t wi;
+   wiimote_connect(&wi, "xx:xx:xx:xx:xx");
+   wi.mode.ir  = 1;		// enable ir-sensor
+   wi.mode.ext = 1;		// enable nunchuk (not necessary)
+   while (wiimote_is_open(&wi)) {
+     wiimote_update(&wi);
+     if (wi.keys.home) {
+       wiimote_disconnect(&wi);
+     }
+     printf("joyx=%d joyy=%d\n", wi.ext.nunchuk.joyx, wi.ext.nunchuk.joyy);
+     printf("irx=%d iry=%d size=%d\n", wi.ir1.x, wi.ir1.y, wi.ir1.size);
+   }
+ }
+
+ // disable all leds at once
+ 
+ wi.leds.bits = 0;
+
+ // activate leds 1 and 2
+
+ wi.leds.one = 1;
+ wi.leds.two = 1;
+
+ // play a short sound sample
+
+ uint8_t tone[20] = {
+ 	0x3c,0x3c,0x3c,0x3c,0x3c,0x3c,0x3c,0x3c,0x3c,0x3c,
+ 	0x3c,0x3c,0x3c,0x3c,0x3c,0x3c,0x3c,0x3c,0x3c,0x3c
+ };
+
+ wiimote_speaker_init(&wiimote, WIIMOTE_FMT_S4, WIIMOTE_SPK_44800HZ);
+ wiimote_speaker_play(&wiimote, tone, 20);
+

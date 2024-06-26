@@ -1,0 +1,22 @@
+If you are signed in as the root user, you can create a new user at any time by typing:
+
+adduser newuser
+If you are signed in as a non-root user who has been given sudo privileges, as demonstrated in the initial server setup guide, you can add a new user by typing:
+
+sudo adduser newuser
+
+
+
+
+You can delete the user itself, without deleting any of his or her files by typing this as root:
+
+deluser newuser
+If you are signed in as another non-root user with sudo privileges, you could instead type:
+
+sudo deluser newuser
+If, instead, you want to delete the user's home directory when the user is deleted, you can issue the following command as root:
+
+deluser --remove-home newuser
+If you're running this as a non-root user with sudo privileges, you would instead type:
+
+sudo deluser --remove-home newuser

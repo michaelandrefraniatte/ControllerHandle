@@ -1,0 +1,53 @@
+packages, modifier
+solution, ajouter
+hci_read_remote_name
+sudo apt-get install xdotool
+get libbluetooth-dev:i386
+install gcc
+$ sudo apt-get install bluez bluez-tools bluez-dbg bluez-hcidump bluez-tools python-bluez libbluetooth-dev libbluetooth3 libbluetooth3-dbg
+install cwiid
+lswm
+software center, edit, softwares sources, restricted software checked, search unbuntu restricted extras, search bluetooth
+sudo apt-get update -y && sudo apt-upgrade -y && sudo apt-get install -y gcc-defaults
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install build-essential
+
+installed the following packages: - bluez-hcidump, communication debugging tool - bluez, Linux Bluetooth stack and associated tools - libBluetooth3, the BlueZ library - libBluetooth-dev, the development files for linking to the BlueZ library 
+
+sudo apt-get install mono-gmcs
+ sudo apt-get install automake 
+gmcs
+installing sudo apt-get install libffi-dev worked for me!
+
+I've just updated media_build to stop compiling the smiapp driver for kernels
+> < 3.20. So if you do 'git pull' in your media_build directory and try again
+> it should work.
+
+The package monodevelop should be installed to get the main MonoDevelop application.
+
+Install monodevelop-nunit to get the MonoDevelop NUnit addin, so you can run unit tests inside the IDE.
+ Install monodevelop-versioncontrol to add Git and SVN integration to the IDE.
+ Install monodevelop-database to add the database addin to the IDE
+sudo dpkg-reconfigure lightdm
+
+apt-get remove --purge monodoc-browser.
+apt-get remove monodevelop
+sudo apt-get wmgui lswm wminput bluez
+sudo apt-get install libxdo-dev libxdo2
+sudo apt-get build-dep bluez-tools 
+apt-get source --compile bluez-tools
+get bluetooth
+sudo apt-get install bluez-tools
+get libbluetooth-dev
+hci_read_remote_name
+get xdotool, pb, add from logitheque, pb
+get libxwiimote-dev
+get xwiimote
+
+Ahh !
+Ca semble fonctionner en initialisant wiimote au d?but avec:
+wiimote_t wiimote = WIIMOTE_INIT;
+
+ajouter aux packages cwiid, bluez de md
+ajouter fichiers dans libwiimote de md sol 

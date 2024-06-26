@@ -1,0 +1,47 @@
+xdotool search “Untitled” windowactivate --sync mousemove
+ --window %1 100 100
+sleep 0.5
+xdotool mousedown 1
+sleep 0.5
+xdotool mousemove_relative --sync 200 200
+sleep 0.5
+xdotool mouseup 1
+
+xdo_mousemove (const xdo_t *xdo, int x, int y, int screen) 
+  Move the mouse to a specific location. 
+ 
+int  xdo_mousemove_relative_to_window (const xdo_t *xdo, Window window, int x, int y) 
+  Move the mouse to a specific location relative to the top-left corner of a window. 
+ 
+int  xdo_mousemove_relative (const xdo_t *xdo, int x, int y) 
+  Move the mouse relative to it's current position. 
+ 
+int  xdo_mousedown (const xdo_t *xdo, Window window, int button) 
+  Send a mouse press (aka mouse down) for a given button at the current mouse location. 
+ 
+int  xdo_mouseup (const xdo_t *xdo, Window window, int button) 
+
+
+
+#!/bin/bash
+
+xdotool mousemove --sync 1000 10
+xdotool click 3
+sleep 1
+xdotool mousemove_relative --sync 0 80
+xdotool click 1
+
+
+
+os.system("xdotool mousemove %d %d" % ( (foundAt[0] + 39 * x + 22) * 1, (foundAt[1] + 37 * y + 20) * 1 ))
+
+
+The mouse moves to 0,0 instead of 500,500 because the executed command is literally "xdotool mousemove p p".
+
+You need to construct your string first, e.g.:
+
+char str[256];
+int p1 = 500;
+int p2 = 500;
+sprintf(str, "xdotool mousemove %d %d", p1, p2);
+system(str);

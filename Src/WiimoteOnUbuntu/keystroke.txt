@@ -1,0 +1,119 @@
+sudo apt-get update
+sudo apt-get install ncurses-dev
+
+
+There's a programmable library called 'xdotool':
+
+
+sudo apt-get install libxdo-dev libxdo2
+
+cat test.c
+ #include <stdio.h>
+#include <stdlib.h>
+#include <xdo.h>
+#include <unistd.h>
+int main() {
+    xdo_t * x = xdo_new(":0.0");0O
+
+    while(1) {
+        printf("simulating Shift_L keypress\n");
+        xdo_keysequence(x, CURRENTWINDOW, "Shift_L", 0);
+        sleep(5);
+    }
+
+    return 0; 
+ }
+
+Run like this:
+
+
+gcc test.c -lxdo -o test
+
+
+
+
+
+
+
+Display *display = NULL;
+xdo_t *xdo = NULL;
+
+void mouse_left_down(int x, int y)
+{
+  xdo_mousemove(xdo, x, y, 0)
+  xdo_mousedown(xdo, CURRENTWINDOW, Button1); 
+}
+
+void mouse_left_up(int x, int y)
+{
+  xdo_mouseup(xdo, CURRENTWINDOW, Button1, 1, 0); 
+}
+
+void mouse_left_double_click(int x, int y)
+{
+  xdo_mousemove(xdo, x, y, 0);
+  xdo_click_multiple(xdo, CURRENTWINDOW, Button1, 1, 0);
+  doubleclick = TRUE;
+}
+
+int main()
+{
+
+  display = XOpenDisplay(NULL);
+  if(display == NULL)
+  {
+    fprintf(stderr, "can't open display!\n");
+    return -1;
+  }
+  xdo = xdo_new((char*) display);
+
+  //some task here
+  // ...
+
+  return 0;
+}
+
+
+
+
+
+
+
+//Compile As:  gcc button.c -lX11 
+
+include < X11/Xlib.h >
+include < X11/Xutil.h >
+include < stdio.h >
+include < X11/extensions/XTest.h >
+
+void press_button()
+{   
+    Display *d;
+    d = XOpenDisplay(NULL);
+        if(d == NULL)
+        {
+            //fprintf(stderr, "Errore nell'apertura del Display !!!\n");
+            //exit(0);
+        }
+    system("xdotool key Shift+a");
+    XFlush(d);
+    XCloseDisplay(d);
+}
+
+int main() {
+    press_button();
+    return 0;
+}
+
+
+
+
+mport os
+>> def move_mouse(x,y):
+>>    os.system('xdotool mousemove ' + str(x) + ' ' + str(y))
+>> def leftclick():
+>>    os.system('xdotool click 1')
+>> def rightclick():
+>>    os.system('xdotool click 3')
+>>
+>>

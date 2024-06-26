@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XBOX360Test">
+</Property><Property Name="Solution File" Value="C:\Users\Mic\Downloads\XBOX360Test_Src\XBOX360Test\XBOX360Test.sln">
+</Property><Property Name="Date" Value="vendredi 6 juillet 2012">
+</Property><Property Name="Time" Value="16:47">
+</Property></Properties><Event ErrorLevel="0" Project="XBOX360Test" Source="XBOX360Test\XBOX360Test.vcproj" Description="Converting project file 'C:\Users\Mic\Downloads\XBOX360Test_Src\XBOX360Test\XBOX360Test\XBOX360Test.vcproj'.">
+</Event><Event ErrorLevel="1" Project="XBOX360Test" Source="XBOX360Test\XBOX360Test.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="XBOX360Test" Source="XBOX360Test\XBOX360Test.vcproj" Description="Done converting to new project file 'C:\Users\Mic\Downloads\XBOX360Test_Src\XBOX360Test\XBOX360Test\XBOX360Test.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="XBOX360Test" Source="XBOX360Test\XBOX360Test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XBOX360Test.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XBOX360Test.sln" Description="Converted">
+</Event></UpgradeLog>
