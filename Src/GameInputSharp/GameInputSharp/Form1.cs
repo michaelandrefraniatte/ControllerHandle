@@ -16,7 +16,12 @@ namespace GameInputSharp
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); 
+            var controllers = RawGameController.RawGameControllers;
+            foreach (var item in controllers)
+            {
+                var name = item.DisplayName;
+            }
         }
     }
 }
